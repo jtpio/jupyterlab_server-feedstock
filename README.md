@@ -9,7 +9,7 @@ Feedstock license: BSD-3-Clause
 
 Summary: A set of server components for JupyterLab and JupyterLab like applications.
 
-
+test
 
 Current build status
 ====================
